@@ -1,0 +1,7 @@
+CHIP Mux4Way16 {
+    IN a, b, c, d, sel[2];
+    OUT out;
+
+    PARTS:
+    // Put your code here:
+}
